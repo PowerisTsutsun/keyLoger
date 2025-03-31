@@ -21,12 +21,12 @@ This project demonstrates how a basic keylogger works using Python. It logs user
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/keylogger-educational.git
-cd keylogger-educational
+git clone git clone https://github.com/PowerisTsutsun/keyLoger.git
+cd keyLoger
 ```
 
 ```
-keylogger-educational/
+keyLoger/
  │
  ├── main.py            # The main keylogger script
  ├── keylog.txt         # Output file for logged keystrokes
