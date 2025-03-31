@@ -23,13 +23,13 @@ This project demonstrates how a basic keylogger works using Python. It logs user
 ```bash
 git clone https://github.com/yourusername/keylogger-educational.git
 cd keylogger-educational
-
+```
 
 ```
 keylogger-educational/
-│
-├── main.py            # The main keylogger script
-├── keylog.txt         # Output file for logged keystrokes
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+ │
+ ├── main.py            # The main keylogger script
+ ├── keylog.txt         # Output file for logged keystrokes
+ ├── requirements.txt   # Python dependencies
+ └── README.md          # Project documentation
 ```
